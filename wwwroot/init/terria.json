@@ -20,7 +20,12 @@
               "name": "3D Tiles Test",
               "type": "3d-tiles",
               "url": "metamoto/tileset.json"
-          }
+          },
+          {
+            "name": "Jurong Lake District buildings",
+            "type": "3d-tiles",
+            "url": "http://115.146.88.78/tilesets-jld-citygml/tileset.json"
+        }
       ]
     }
   ]
